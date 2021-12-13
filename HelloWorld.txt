@@ -1,2 +1,0 @@
-New line added after branching
-This is modified in GitHub1
